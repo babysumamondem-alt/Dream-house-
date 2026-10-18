@@ -1,0 +1,102 @@
+GAME NAME: HOUSE COLOUR COMPETITION
+
+I want to create a house colouring competition game. The home screen should be colourful and attractive, similar to the reference image I provided.
+
+1. HOME SCREEN
+
+- Display the game title.
+- Show a house preview.
+- Add a large PLAY button.
+- Display the player's profile, coin balance, and diamond balance.
+- Include a colour palette and character selection option.
+
+2. OPPONENT SCREEN
+
+- When the player taps the PLAY button, display the player's profile.
+- Show the opponent's profile next to the player's profile.
+- The opponent must be an AI player.
+- Display the AI opponent's name and character picture.
+- Clearly label the opponent as an AI OPPONENT.
+
+3. FIRST LEVEL
+
+- The first level must display an uncoloured house.
+- The player must be able to colour every individual part of the house, including:
+  - Roof / House Top
+  - Walls
+  - Windows
+  - Window Frames
+  - Door
+  - Door Frame
+  - Chimney
+  - Steps
+  - House Base
+  - All other parts of the house
+
+4. COLOURING CONTROLS
+
+- The player must select a colour from the colour palette first.
+- Then, when the player taps a part of the house, the selected colour must be applied to that part.
+- The player must be able to select a different colour and recolour any part of the house.
+- Include UNDO and RESET buttons.
+- The colouring controls must be simple and easy to use.
+
+5. SUBMIT BUTTON
+
+- Display a SUBMIT button at the bottom of the colouring screen.
+- When the player taps SUBMIT, a 5-second countdown must begin.
+- Once the countdown starts, the player's colouring must be locked.
+- After 5 seconds, the completed drawing must be submitted automatically.
+
+6. COLOURING COMPETITION
+
+- The player must compete against an AI opponent in a house colouring competition.
+- After submission, both the player and the AI must receive scores.
+- The player with the higher score must be declared the winner.
+- The scoring rules must be clearly defined before the competition begins.
+- The result screen must display both the player's score and the AI's score.
+
+7. REWARDS SYSTEM
+
+If the player wins:
+
+- 100 Coins
+- 50 Diamonds
+
+If the player loses:
+
+- 50 Coins
+
+Extra Bonus Reward:
+
+- If the player wins by a significantly higher score than the AI, the player must receive an additional bonus reward.
+- The extra bonus amount and the minimum score difference required to earn it are yet to be decided.
+- The rules for ties must also be decided.
+- Rewards must be added to the player's balance only once per match.
+- The game must prevent duplicate rewards for the same match.
+
+8. RESULT SCREEN
+
+The result screen must display:
+
+- YOU WIN or YOU LOSE.
+- The player's score.
+- The AI opponent's score.
+- The coins earned.
+- The diamonds earned.
+- A NEXT LEVEL button.
+- A HOME button.
+
+All earned rewards must be saved in the player's balance so they remain available when the player returns to the game.
+
+9. GAME DESIGN AND USER EXPERIENCE
+
+- The game must be colourful, attractive, and enjoyable.
+- The interface must be simple and easy for children to understand.
+- Every house must have individually colourable parts.
+- The player must be able to change colours freely before submitting the drawing.
+- The game must have a smooth and enjoyable playing experience.
+- The competition, scoring, rewards, and result screens must work correctly.
+- The game should be designed so that more levels and different house designs can be added in the future.
+
+MAIN GOAL: Create a fully playable, colourful, and interactive house colouring competition game in which players colour houses, compete against AI opponents, earn coins and diamonds, and unlock new levels.
